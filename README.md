@@ -8,7 +8,7 @@ docker run -d -p 80:80 issc29/ldap-reset-password
 
 #### Customizing LDAP Passwrod Self Service
 
-docker run -d -p 80:80 -v <override-dir>:/ldap-override issc29/ldap-reset-password
+docker run -d -p 80:80 -v `<override-dir>`:/ldap-override issc29/ldap-reset-password
 
 where `<override-dir>` is an absolute path of a directory that could contain:
 
