@@ -1,4 +1,4 @@
-## LDAP Password Selff Service Dockerfile
+## LDAP Password Self Service Dockerfile
 
 This repository contains the  **Dockerfile** of the [LDAP Self Service Password](http://ltb-project.org/wiki/documentation/self-service-password). This is based off of the apache php Dockerfile.
 
